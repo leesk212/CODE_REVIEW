@@ -1,6 +1,6 @@
-#Code
+# Code
 
-```
+```c
 #include <iostream>
 #include <vector>
 #include <algorithm>
